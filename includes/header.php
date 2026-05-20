@@ -12,11 +12,11 @@ if (!$settings) {
         'profile_photo' => 'default.jpg',
         'profile_description' => 'Selamat datang di portofolio saya.',
         'age' => 20,
-        'school' => 'SMK Negeri 1',
-        'major' => 'Rekayasa Perangkat Lunak',
-        'contact_email' => 'email@example.com',
-        'contact_phone' => '08123456789',
-        'contact_address' => 'Jakarta'
+        'school' => 'SMK Negeri 1 Depok',
+        'major' => 'Pengembangan perangkat lunak dan gim',
+        'contact_email' => 'geraldmarentek08@gmail.com'
+        'contact_phone' => '081292221003',
+        'contact_address' => 'Depok'
     ];
 }
 ?>
