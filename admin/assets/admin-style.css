@@ -1,0 +1,35 @@
+body {
+    background: #f4f6f9;
+}
+
+.sidebar {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+    color: white;
+}
+
+.sidebar .nav-link {
+    color: white !important;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.sidebar .nav-link.active {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.content {
+    padding: 30px;
+}
+
+.table {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.btn-primary {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    border: none;
+}
